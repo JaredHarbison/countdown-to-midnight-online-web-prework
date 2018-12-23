@@ -6,10 +6,6 @@ def countdown (number)
   end
 end
 
-def happy_new_year
-puts "HAPPY NEW YEAR!"
-end
-
 def countdown_with_sleep (number)
     counter = 0
   while counter < number
