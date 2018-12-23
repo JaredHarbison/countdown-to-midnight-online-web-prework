@@ -6,6 +6,7 @@ def countdown (number)
   end
 end
 
+def happy_new_year
 puts "HAPPY NEW YEAR!"
 end
 
